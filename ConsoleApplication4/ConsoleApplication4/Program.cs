@@ -21,8 +21,8 @@ namespace ConsoleApplication4
             int precio_p = 1500;
             int precio_b = 500;
             int precio_a = 2000;
-            int precio_f = 1500;
-            int precio_m = 1000;
+            int precio_f = 1600;
+            int precio_m = 1100;
             string clave;
             string opciones;
             string usuario;
@@ -153,6 +153,7 @@ namespace ConsoleApplication4
             } 
             Console.WriteLine("Gracias por utilizar nuestro servicio");
             Console.ReadLine();
+            //este comentario es una pruba para observar los cambios en githube
         }
     }
            
