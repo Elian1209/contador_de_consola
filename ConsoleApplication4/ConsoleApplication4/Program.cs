@@ -17,12 +17,12 @@ namespace ConsoleApplication4
             int pagar;
             int errores = 0;
             string linea;
-            int precio_h = 1000;
-            int precio_p = 1500;
-            int precio_b = 500;
-            int precio_a = 2000;
-            int precio_f = 1600;
-            int precio_m = 1100;
+            int precio_h = 1500;
+            int precio_p = 1700;
+            int precio_b = 700;
+            int precio_a = 1900;
+            int precio_f = 1800;
+            int precio_m = 1200;
             string clave;
             string opciones;
             string usuario;
